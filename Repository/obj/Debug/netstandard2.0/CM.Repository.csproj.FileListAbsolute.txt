@@ -1,0 +1,12 @@
+C:\Users\Champ-IT15\source\repos\CricketMania\Repository\bin\Debug\netstandard2.0\CM.Repository.deps.json
+C:\Users\Champ-IT15\source\repos\CricketMania\Repository\bin\Debug\netstandard2.0\CM.Repository.dll
+C:\Users\Champ-IT15\source\repos\CricketMania\Repository\bin\Debug\netstandard2.0\CM.Repository.pdb
+C:\Users\Champ-IT15\source\repos\CricketMania\Repository\obj\Debug\netstandard2.0\CM.Repository.csprojAssemblyReference.cache
+C:\Users\Champ-IT15\source\repos\CricketMania\Repository\obj\Debug\netstandard2.0\CM.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Champ-IT15\source\repos\CricketMania\Repository\obj\Debug\netstandard2.0\CM.Repository.AssemblyInfoInputs.cache
+C:\Users\Champ-IT15\source\repos\CricketMania\Repository\obj\Debug\netstandard2.0\CM.Repository.AssemblyInfo.cs
+C:\Users\Champ-IT15\source\repos\CricketMania\Repository\obj\Debug\netstandard2.0\CM.Repository.csproj.CopyComplete
+C:\Users\Champ-IT15\source\repos\CricketMania\Repository\obj\Debug\netstandard2.0\CM.Repository.dll
+C:\Users\Champ-IT15\source\repos\CricketMania\Repository\obj\Debug\netstandard2.0\CM.Repository.pdb
+C:\Users\Champ-IT15\source\repos\CricketMania\Repository\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Champ-IT15\source\repos\CricketMania\Repository\bin\Debug\netstandard2.0\Entity.pdb

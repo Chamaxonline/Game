@@ -1,0 +1,8 @@
+C:\Users\Champ-IT15\source\repos\CricketMania\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\Champ-IT15\source\repos\CricketMania\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Champ-IT15\source\repos\CricketMania\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Champ-IT15\source\repos\CricketMania\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Champ-IT15\source\repos\CricketMania\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\Champ-IT15\source\repos\CricketMania\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Champ-IT15\source\repos\CricketMania\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\Champ-IT15\source\repos\CricketMania\Entity\obj\Debug\netstandard2.0\Entity.pdb
